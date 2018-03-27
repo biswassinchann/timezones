@@ -1,0 +1,12 @@
+{
+    "name": "biswassinchann/timezones",
+    "description": "Demo package",
+    "authors": [
+        {
+            "name": "Sinchan Biswas",
+            "email": "biswas.sinchann@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
